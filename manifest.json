@@ -1,0 +1,23 @@
+{
+  "name": "GADS2020losweatherapp",
+  "short_name": "losweatherapp",
+  "lang": "en-US",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#CCCCFF",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512X512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screen.png",
+      "sizes": "1280/920",
+      "type": "image/png"
+    }
+  ]
+}
